@@ -1,0 +1,19 @@
+.{
+    box-sizing: border-box;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+
+#gameCanvas{
+    margin: 20px 125px;
+    border: 15px solid;
+    border-color: green green green  red;
+    cursor: pointer;
+
+}
+
+#goalie{
+    display: none;
+}
